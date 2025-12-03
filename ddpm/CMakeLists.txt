@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.16)
 project(ddpm LANGUAGES CXX CUDA)
 
-set(CMAKE_PREFIX_PATH "${CMAKE_PREFIX_PATH};/media/riju/New Volume2/libtorch")
+set(CMAKE_PREFIX_PATH "${CMAKE_PREFIX_PATH};/path/to/libtorch")
 
 # Torch
 find_package(Torch CONFIG REQUIRED)

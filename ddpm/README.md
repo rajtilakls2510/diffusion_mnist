@@ -1,5 +1,8 @@
 # DDPM in C++ (LibTorch)
 
+![DDPM Sample](https://github.com/rajtilakls2510/diffusion_mnist/raw/main/ddpm/diffusion_1764730964.png)
+
+
 Implementation of **Denoising Diffusion Probabilistic Models (DDPM)** in modern C++ using **LibTorch**. The original DDPM paper can be found here:
 
 [https://arxiv.org/abs/2006.11239](https://arxiv.org/abs/2006.11239)
